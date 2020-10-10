@@ -20,7 +20,7 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'docs'),
-        filename: 'simple-banking-app.js',
+        filename: 'gmail-react-app.js',
         chunkFilename: '[name].js'
     },
     plugins: [
